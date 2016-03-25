@@ -1,0 +1,19 @@
+{
+  "name": "esquire_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roman Kosenko <roman@kosenko.ru>",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "debug": "^2.2.0",
+    "moment": "^2.12.0",
+    "node-persist": "0.0.11",
+    "node-telegram-bot-api": "^0.21.1",
+    "request-promise": "^2.0.1"
+  }
+}
